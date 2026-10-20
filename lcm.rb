@@ -1,6 +1,5 @@
  
  require 'sinatra'
- set :port, 3000
 
   get "/mamadalievazara_gmail_com" do
     arg1 = params[:x]

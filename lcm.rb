@@ -11,7 +11,7 @@
     converted_arg1 = arg1.to_i
     converted_arg2 = arg2.to_i
 
-    puts converted_arg1.lcm(converted_arg2).to_s
+    converted_arg1.lcm(converted_arg2).to_s
   end
 
 
